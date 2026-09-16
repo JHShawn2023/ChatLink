@@ -1,0 +1,41 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Package files
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Virtual machine crash logs
+hs_err_pid*
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.nbproject/
+nbproject/
+
+# NetBeans
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# Data files generated at runtime
+users.txt
+groups.txt
+chat_history/
+server_files/
+
+# OS files
+.DS_Store
+Thumbs.db
